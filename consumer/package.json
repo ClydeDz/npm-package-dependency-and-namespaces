@@ -9,10 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^5.3.3"
-  },
   "dependencies": {
-    "package-a": "^0.0.7"
+    "@super-duper-packages-horse/package-a": "^0.0.8",
+    "typescript": "^5.3.3"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "package-b",
+  "name": "@super-duper-packages-horse/package-b",
   "version": "0.0.3",
   "description": "demo package b",
   "main": "./dist/index.js",

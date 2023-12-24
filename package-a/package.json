@@ -1,6 +1,6 @@
 {
-  "name": "package-a",
-  "version": "0.0.7",
+  "name": "@super-duper-packages-horse/package-a",
+  "version": "0.0.8",
   "description": "demo package a",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@types/package-b": "^0.0.3",
-    "package-b": "^0.0.3"
+    "@super-duper-packages-horse/package-b": "^0.0.3"
   }
 }
