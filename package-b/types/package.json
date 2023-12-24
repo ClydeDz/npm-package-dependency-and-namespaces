@@ -1,15 +1,12 @@
 {
-  "name": "package-b",
+  "name": "@types/package-b",
   "version": "0.0.3",
   "description": "demo package b",
-  "main": "./dist/index.js",
+  "main": "",
+  "types": "./index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "files": [
-    "dist/**/*.js",
-    "dist/**/*.d.ts"
-  ],
   "keywords": [],
   "author": "",
   "license": "MIT",

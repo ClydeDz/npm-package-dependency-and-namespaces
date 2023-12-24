@@ -130,3 +130,4 @@ dist
 .pnp.*
 package-a/.npmrc
 package-b/.npmrc
+package-b/types/.npmrc
