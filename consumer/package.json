@@ -13,6 +13,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "package-a": "^0.0.2"
+    "package-a": "^0.0.6"
   }
 }
